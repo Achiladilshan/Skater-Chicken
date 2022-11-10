@@ -1,0 +1,31 @@
+﻿  Main.cpp
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(381,71): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(381,45): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(384,72): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(384,46): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(486,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(514,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(548,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(553,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\Project Chicken Game\Main.cpp(676,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Project Chicken Game.vcxproj -> C:\Users\Shehan Chamudith\Desktop\Chicken Game\Chicken\Project Chicken Game\x64\Debug\Project Chicken Game.exe
